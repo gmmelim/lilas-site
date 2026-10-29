@@ -1,0 +1,65 @@
+{
+ "multiuso_conc_lavanda": {
+  "name": "Multiuso Concentrado Lavanda 1L",
+  "brand": "Positiv.a",
+  "ref": "100227",
+  "price": 38.99,
+  "link": "https://www.positiva.eco.br/multiuso-concentrado-lavanda-1l/p",
+  "img_api": "https://positivaeco.vteximg.com.br/arquivos/ids/159173/Multiuso-Concentrado-1-Litro-Lavanda-FRENTE.jpg?v=639219970393000000",
+  "img_local": "img/multiuso_conc_lavanda.jpg"
+ },
+ "lava_roupas_bebe_sf": {
+  "name": "Lava Roupas Líquido Bebê Sem Fragrância 1L",
+  "brand": "Positiv.a",
+  "ref": "100236",
+  "price": 29.99,
+  "link": "https://www.positiva.eco.br/lava-roupas-bebe-sem-fragrancia-1l/p",
+  "img_api": "https://positivaeco.vteximg.com.br/arquivos/ids/159584/Lava-roupa-sem-fragrancia.jpg?v=639254472305530000",
+  "img_local": "img/lava_roupas_bebe_sf.jpg"
+ },
+ "limpa_brinquedos_bebe": {
+  "name": "Limpa Quarto e Brinquedos Bebê Sem fragrância 470ml",
+  "brand": "Positiv.a",
+  "ref": "100234",
+  "price": 26.99,
+  "link": "https://www.positiva.eco.br/limpa-quarto-e-brinquedos-sem-perfume-470ml/p",
+  "img_api": "https://positivaeco.vteximg.com.br/arquivos/ids/159593/Limpa-quarto.jpg?v=639254472536930000",
+  "img_local": "img/limpa_brinquedos_bebe.jpg"
+ },
+ "sabao_coco_barra": {
+  "name": "Sabão de Coco em Barra 100g",
+  "brand": "Positiv.a",
+  "ref": "100192",
+  "price": 7.99,
+  "link": "https://www.positiva.eco.br/sabao-de-coco-barra-100g/p",
+  "img_api": "https://positivaeco.vteximg.com.br/arquivos/ids/159483/Sabao-de-Coco-em-Barra-100g-FRENTE.jpg?v=639238813509630000",
+  "img_local": "img/sabao_coco_barra.jpg"
+ },
+ "lava_loucas_gel_laranja": {
+  "name": "Lava Louças em Gel Laranja 420ml",
+  "brand": "Positiv.a",
+  "ref": "100185",
+  "price": 10.99,
+  "link": "https://www.positiva.eco.br/lava-loucas-detergente-liquido-laranja-420ml/p",
+  "img_api": "https://positivaeco.vteximg.com.br/arquivos/ids/158559/lava-louças-420-laranja.png?v=638568414082300000",
+  "img_local": "img/lava_loucas_gel_laranja.jpg"
+ },
+ "lava_roupas_bebe_suave": {
+  "name": "Lava Roupas Líquido Bebê Fragrância Suave 1L",
+  "brand": "Positiv.a",
+  "ref": "100237",
+  "price": 29.99,
+  "link": "https://www.positiva.eco.br/lava-roupas-bebe-pele-sensivel/p",
+  "img_api": "https://positivaeco.vteximg.com.br/arquivos/ids/159575/Lava-roupa-colinho.jpg?v=639254472076300000",
+  "img_local": "img/lava_roupas_bebe_suave.jpg"
+ },
+ "tira_manchas_po": {
+  "name": "Tira Manchas em Pó 350g",
+  "brand": "Positiv.a",
+  "ref": "100178",
+  "price": 26.99,
+  "link": "https://www.positiva.eco.br/tira-manchas-em-po-350g/p",
+  "img_api": "https://positivaeco.vteximg.com.br/arquivos/ids/159029/tira-manchas-po-350g-frente.png?v=638975373361600000",
+  "img_local": "img/tira_manchas_po.jpg"
+ }
+}
